@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=MaximKurbanov&color=green&style=plastic&color=e0ff7a)
+![](https://komarev.com/ghpvc/?username=MaximKurbanov&color=green&style=plastic&color=47d1b1)
 <!--
 **MaximKurbanov/MaximKurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
