@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MaximKurbanov&color=green&style=plastic&color=47d1b1)
 
-# 📫 How to reach me:
+📫 How to reach me:
 
 [![@MaximKurbanov](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40MaximKurbanov-blue.svg)](https://telegram.me/MaximKurbanov)
 
