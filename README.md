@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MaximKurbanov&color=green&style=plastic&color=47d1b1)
+
+# 📫 How to reach me:
+
+[![@MaximKurbanov](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40MaximKurbanov-blue.svg)](https://telegram.me/MaximKurbanov)
+
+[![@max057246](https://img.shields.io/badge/%F0%9F%93%A7%20Email-max057246%40gmail.com-red.svg)](mailto:max057246@gmail.com)
 <!--
 **MaximKurbanov/MaximKurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
